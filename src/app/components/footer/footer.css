@@ -1,0 +1,47 @@
+footer{
+
+    background:#0f172a;
+
+    padding:50px;
+
+    text-align:center;
+
+    color:white;
+
+}
+
+footer h2{
+
+    color:#38bdf8;
+
+}
+
+.social{
+
+    margin:25px 0;
+
+}
+
+.social a{
+
+    color:white;
+
+    text-decoration:none;
+
+    margin:15px;
+
+    transition:.3s;
+
+}
+
+.social a:hover{
+
+    color:#38bdf8;
+
+}
+
+.copy{
+
+    color:#94a3b8;
+
+}
